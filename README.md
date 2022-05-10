@@ -1,2 +1,10 @@
-# DataScience_challenge
-Application of data science tools in real data
+# Data Science challenge
+
+Application of data science tools to real data.
+
+Regression
+
+Classification
+* Past loans data
+
+Clustering
