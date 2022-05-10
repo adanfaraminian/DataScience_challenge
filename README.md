@@ -1,4 +1,4 @@
-# Data Science challenge
+# Data Science jobs
 
 Application of data science tools to real data.
 
